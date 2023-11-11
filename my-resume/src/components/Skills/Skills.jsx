@@ -20,7 +20,7 @@ function Skills() {
       <h3 className={style.skillsWarning}>{`(🎧 Increase The Volume)`}</h3>
       <div className={` ${isWeb ?style.skillsContainerFixed :style.skillsContainer}`}>
         <div className={` ${isWeb ?style.splineFixed :style.spline} ${isMobile ?style.splineFixed2 :style.spline}`}>
-          <Spline scene="https://prod.spline.design/RFHPRMh6YeW5JKVk/scene.splinecode" />
+        <Spline scene="https://prod.spline.design/RFHPRMh6YeW5JKVk/scene.splinecode" />
       
         </div>
 

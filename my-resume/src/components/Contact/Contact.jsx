@@ -26,7 +26,7 @@ function Contact() {
             </div>
 
             <div className={style.slide}>
-            <a href="https://api.whatsapp.com/send?phone+98902059111"><img src={whatsapp} alt="whatsapp" /> </a>
+            <a href="https://api.whatsapp.com/send?phone+989020597111"><img src={whatsapp} alt="whatsapp" /> </a>
             </div>
 
             <div className={style.slide}>
@@ -41,7 +41,7 @@ function Contact() {
             </div>
 
             <div className={style.slide}>
-               <a href="https://api.whatsapp.com/send?phone+98902059111"><img src={whatsapp} alt="whatsapp" /> </a>
+               <a href="https://api.whatsapp.com/send?phone+989020597111"><img src={whatsapp} alt="whatsapp" /> </a>
             </div>
 
             <div className={style.slide}>
