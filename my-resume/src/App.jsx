@@ -7,6 +7,7 @@ import Portfolio from "./components/Portfolio/Portfolio";
 
 
 
+
 export default function App() {
   return (
     <div className="app">
@@ -14,7 +15,7 @@ export default function App() {
      <Header/>
      <AboutME />
      <Skills />
-     <Portfolio/>
+    <Portfolio/>
      <Contact />
      
     </div>
