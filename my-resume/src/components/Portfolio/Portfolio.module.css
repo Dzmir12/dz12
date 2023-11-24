@@ -1,0 +1,235 @@
+.portfolio {
+    width: 100%;
+    background-color: #CFDFFF;
+
+}
+
+ 
+.portfolioContainer {
+    width: 28%;
+    background-color:  #CFDFFF;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+} 
+
+.portfolioContainerFix {
+    width: 35%;
+    background-color:  #CFDFFF;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix2 {
+    width: 42%;
+    background-color:  #CFDFFF;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix4 {
+    width: 57%;
+    background-color:  #CFDFFF;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix6 {
+    width: 68%;
+    background-color:  #CFDFFF;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix8 {
+    width: 95%;
+    background-color:  #CFDFFF;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioItemContainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.portfolioImgContainer {
+    width: 90%;
+    border-radius: 13px;
+}
+
+.portfolioImg {
+    width: 100%;
+    border-radius: 13px;
+    height: 40vh;
+    display: block;
+}
+
+.portfolioP {
+    font-size: 1.5rem;
+    color: #1565C0;
+}
+
+.portfolioButtonContainer {
+    width: 90%;
+    gap: 2rem;
+    display: flex;
+    margin-top: 2rem;
+}
+
+.portfolioButtonContainerFix {
+    width: 90%;
+    gap: 1rem;
+    display: flex;
+    margin-top: 2rem;
+}
+
+.portfolioButtonContainerFix1{
+    width: 90%;
+    gap: .6rem;
+    display: flex;
+    margin-top: 2rem;
+}
+
+.portfolioButton {
+    padding: 21px;
+    width: 50%;
+    border-radius: 42px;
+    border: none;
+    font-size: 1rem;
+    color: #1565C0;
+    /* border: 2px solid #1565C0; */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+    background-color: #CFDFFF;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+.portfolioContainer2 {
+    width: 28%;
+    background-color:  #1565C0;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix1 {
+    width: 35%;
+    background-color:  #1565C0;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix3 {
+    width: 42%;
+    background-color:  #1565C0;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix5 {
+    width: 57%;
+    background-color:  #1565C0;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix7 {
+    width: 68%;
+    background-color:  #1565C0;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioContainerFix9 {
+    width: 95%;
+    background-color:  #1565C0;
+    height: 62vh;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 56px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.portfolioP2 {
+    color: #CFDFFF;
+    font-size: 1.5rem;
+}
+
+.portfolioButton2 {
+    padding: 21px;
+    width: 50%;
+    border-radius: 42px;
+    border: none;
+    font-size: 1rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+    color: #CFDFFF;
+    border: 2px solid  #CFDFFF ;
+    background-color: #1565C0;
+}
+
+.a {
+    text-decoration: none;
+    color: #CFDFFF;
+}
