@@ -3,8 +3,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     margin-bottom: 0;
+}
+
+.subHeadH5 {
+     margin-top: 2rem;
 }
 
 .subHeadH2 {

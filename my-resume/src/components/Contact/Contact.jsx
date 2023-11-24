@@ -18,7 +18,7 @@ function Contact() {
 
         <div className={style.slideTrack}>
             <div className={style.slide}>
-            <a href="https://web.telegram.org/k/#@Dzmir12"> <img src={telegram} alt="telegram" /> </a>
+            <a href="https://https://t.me/Dzmir12"> <img src={telegram} alt="telegram" /> </a>
             </div>
 
             <div className={style.slide}>
@@ -26,14 +26,14 @@ function Contact() {
             </div>
 
             <div className={style.slide}>
-            <a href="https://api.whatsapp.com/send?phone+989020597111"><img src={whatsapp} alt="whatsapp" /> </a>
+            <a href="https://wa.me/+989020597111"><img src={whatsapp} alt="whatsapp" /> </a>
             </div>
 
             <div className={style.slide}>
             <a href="mailto:dzmirrich10@gmail.com" target='_blank'> <img src={gmail} alt="gmail" /> </a>
             </div>
             <div className={style.slide}>
-              <a href="https://web.telegram.org/k/#@Dzmir12"> <img src={telegram} alt="telegram" /> </a>
+              <a href="https://t.me/Dzmir12"> <img src={telegram} alt="telegram" /> </a>
             </div>
 
             <div className={style.slide}>
@@ -41,7 +41,7 @@ function Contact() {
             </div>
 
             <div className={style.slide}>
-               <a href="https://api.whatsapp.com/send?phone+989020597111"><img src={whatsapp} alt="whatsapp" /> </a>
+               <a href="https://https://wa.me/+989020597111"><img src={whatsapp} alt="whatsapp" /> </a>
             </div>
 
             <div className={style.slide}>
